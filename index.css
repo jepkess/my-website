@@ -1,0 +1,41 @@
+ul>li{
+    display: inline;
+    margin: 5px ;
+    float:right;
+   
+    
+}
+ul>li>a{
+   
+    text-decoration: none;
+    color:aqua ;
+}
+
+.navbar{
+    background-color: rgb(3, 10, 31);
+    padding: 35px;
+}
+.container{
+    background-color: rgb(238, 199, 199);
+    display: block;
+    text-align: center;
+    padding: 20px;
+    justify-content:space-evenly;
+    text-decoration: chartreuse;
+    width: 80%;
+    margin-left: 60px;
+    /* margin-right: 20px; */
+}
+.welcome{
+    display: flex;
+    justify-content: space-evenly;
+}
+.welcome>a>img{
+    border-radius: 100%;
+    border: 3px solid blue;
+}
+h1{
+    margin-top: 0px;
+    /* margin-bottom: 20px; */
+   
+}
