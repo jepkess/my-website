@@ -36,6 +36,43 @@ ul>li>a{
 }
 h1{
     margin-top: 0px;
-    /* margin-bottom: 20px; */
+    color: brown;
    
+}
+h2{ 
+    color: chartreuse;
+    /* text-decoration: overline; */
+}
+.images{
+    background-color: #da4d4d;
+    height: 100vh; 
+    
+}
+.images>img{
+    justify-content: space-evenly;
+}
+.fig2>img:hover{
+    cursor: pointer;
+}
+.figma>img:hover{
+    cursor: pointer;
+}
+.fig2{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+.figma{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+h3{
+    background-color: cyan;
+    color: darkred;
+    
+}
+hr {
+    color: darkred;
 }
