@@ -118,6 +118,19 @@ hr {
     /* justify-content: center; */
     align-items: ;
 }
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-color: rgb(211, 73, 73)
+    margin: left 50px; ;
+    color: darkblue
+}
+.form>h1{
+    color:rgb(138, 26, 26);
+    background-color: chartreuse;
+}
 
     
 
