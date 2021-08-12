@@ -53,6 +53,7 @@ h2{
 }
 .fig2>img:hover{
     cursor: pointer;
+    opacity: 0.8;
 }
 .figma>img:hover{
     cursor: pointer;
