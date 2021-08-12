@@ -1,4 +1,4 @@
-ul>li{
+nav>ul>li{
     display: inline;
     margin: 5px ;
     float:right;
@@ -150,6 +150,21 @@ hr {
 }
 .container{
     border-radius: 10px;
+}
+.services{
+    align-items: center;
+    padding: 2%;
+    background-color: rgb(196, 101, 101);
+    border-radius: 10px;
+}
+.services>h1{
+    text-align: center;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+.services>ul>li{
+    list-style: none;
+    /* text-align: center; */
 }
 
     
