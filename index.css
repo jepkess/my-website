@@ -135,6 +135,13 @@ hr {
     background-color: greenyellow;
     color:black;
     padding: 2%;
+    text-align: center;
+}
+.vission{
+    background-color: chocolate;
+    color: black;
+    padding: 2%;
+    text-align: center;
 }
 
     
