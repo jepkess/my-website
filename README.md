@@ -11,7 +11,7 @@ On the terminal
 2. CSS 
 3. JAVASCRIPT
 ## Live Demo
--[live](jepkess.github.io/my-website/)
+[live](jepkess.github.io/my-website/)
 ## License
 - Copyright @ Vincent Kipkirui.
 - This project is under the license of [MIT](LICENSE.md)
